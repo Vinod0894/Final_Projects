@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+gensim
+nltk
+scikit-learn
+beautifulsoup4

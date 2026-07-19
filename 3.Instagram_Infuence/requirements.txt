@@ -1,0 +1,6 @@
+pandas
+ipykernel
+numpy
+seaborn
+matplotlib
+plotly-express
